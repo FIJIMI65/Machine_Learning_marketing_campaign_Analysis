@@ -8,6 +8,8 @@ This project aims to **predict customer responses to a bank’s marketing campai
 
 > **Use Case**: Predict whether a customer will subscribe to a term deposit based on demographic and interaction data.
 
+### Click here for more [![More Details badge](https://img.shields.io/badge/Click-Here-brightgreen.svg)](./FINAL_marketing_campaign Analysis.ipynb)
+
 ---
 
 ## 📌 Objectives
